@@ -1,0 +1,76 @@
+{
+    "type": "bubble",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "ติดต่อเจ้าหน้าที่ด้านไหนดีคะ",
+          "weight": "bold",
+          "align": "center",
+          "size": "md"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "text",
+              "text": "ติดต่อฝ่ายขาย",
+              "align": "center",
+              "weight": "bold",
+              "color": "#FFFFFF"
+            }
+          ],
+          "paddingAll": "10px",
+          "backgroundColor": "#E64F01",
+          "borderWidth": "semi-bold",
+          "cornerRadius": "md",
+          "action": {
+            "type": "message",
+            "label": "ติดต่อฝ่ายขาย",
+            "text": "ติดต่อฝ่ายขาย"
+          }
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "text",
+              "text": "แจ้งปัญหาการใช้งาน",
+              "align": "center",
+              "weight": "bold",
+              "color": "#FFFFFF"
+            }
+          ],
+          "paddingAll": "10px",
+          "backgroundColor": "#E64F01",
+          "borderWidth": "semi-bold",
+          "cornerRadius": "md",
+          "action": {
+            "type": "message",
+            "label": "แจ้งปัญหาการใช้งาน",
+            "text": "แจ้งปัญหาการใช้งาน"
+          }
+        }
+      ],
+      "spacing": "10px",
+      "paddingAll": "10px"
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "image",
+          "url": "https://img.freepik.com/free-photo/contact-helpdesk-customer-service-spaceship-graphic-concept_53876-124946.jpg?w=1380&t=st=1670579687~exp=1670580287~hmac=cc4fc3cf2c980783e36615b36fb8107d9837d2d077e2483a17007705639148da",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "7:2"
+        }
+      ],
+      "paddingAll": "0px"
+    }
+  }

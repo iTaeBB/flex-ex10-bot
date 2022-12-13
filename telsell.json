@@ -1,0 +1,47 @@
+{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://img.freepik.com/free-photo/beautiful-smart-business-asian-woman-smart-casual-wear-working-laptop-talking-phone-while-sitting-table-creative-office_7861-1479.jpg?w=1380&t=st=1670578394~exp=1670578994~hmac=d766c42fd8221a8f046eb8f6b377be581d416dbcf2866b4a4bad0c9114f214f8",
+      "aspectMode": "cover",
+      "size": "full",
+      "aspectRatio": "7:2"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "text",
+              "text": "โทรหาเจ้าหน้าที่",
+              "align": "center",
+              "weight": "bold",
+              "color": "#FFFFFF"
+            }
+          ],
+          "paddingAll": "10px",
+          "backgroundColor": "#E64F01",
+          "borderWidth": "semi-bold",
+          "cornerRadius": "md",
+          "action": {
+            "type": "uri",
+            "label": "TEL",
+            "uri": "tel:0658935453"
+          }
+        },
+        {
+          "type": "text",
+          "text": "เวลาทำการวันจันทร์ - ศุกร์ 9.00 - 18.00 น. หรือ\nสามารถแจ้งข้อมูลของคุณเพื่อให้เจ้าหน้าที่ติดต่อกลับ",
+          "wrap": true,
+          "align": "center",
+          "size": "xs"
+        }
+      ],
+      "spacing": "10px",
+      "paddingAll": "10px"
+    }
+  }

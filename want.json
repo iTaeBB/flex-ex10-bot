@@ -1,0 +1,140 @@
+{
+    "type": "bubble",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "สนใจผลิตภัณฑ์ใดดีคะ",
+          "weight": "bold",
+          "align": "center",
+          "size": "lg"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "image",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
+                  "aspectRatio": "1:1",
+                  "aspectMode": "cover"
+                }
+              ],
+              "width": "30px"
+            },
+            {
+              "type": "text",
+              "text": "Chat Center",
+              "align": "center",
+              "weight": "bold",
+              "color": "#FFFFFF"
+            }
+          ],
+          "paddingAll": "10px",
+          "backgroundColor": "#FF8F10",
+          "borderWidth": "semi-bold",
+          "cornerRadius": "md",
+          "action": {
+            "type": "message",
+            "label": "สนใจ Chatcenter",
+            "text": "สนใจ Chatcenter"
+          },
+          "alignItems": "center"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "image",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
+                  "aspectRatio": "1:1",
+                  "aspectMode": "cover"
+                }
+              ],
+              "width": "30px"
+            },
+            {
+              "type": "text",
+              "text": "CRM",
+              "align": "center",
+              "weight": "bold",
+              "color": "#FFFFFF"
+            }
+          ],
+          "paddingAll": "10px",
+          "backgroundColor": "#E64F01",
+          "borderWidth": "semi-bold",
+          "cornerRadius": "md",
+          "action": {
+            "type": "message",
+            "label": "สนใจ CRM",
+            "text": "สนใจ CRM"
+          },
+          "alignItems": "center"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "image",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
+                  "aspectRatio": "1:1",
+                  "aspectMode": "cover"
+                }
+              ],
+              "width": "30px"
+            },
+            {
+              "type": "text",
+              "text": "CDP",
+              "align": "center",
+              "weight": "bold",
+              "color": "#FFFFFF"
+            }
+          ],
+          "paddingAll": "10px",
+          "backgroundColor": "#E64F01",
+          "borderWidth": "semi-bold",
+          "cornerRadius": "md",
+          "action": {
+            "type": "message",
+            "label": "สนใจ CDP",
+            "text": "สนใจ CDP"
+          },
+          "alignItems": "center"
+        }
+      ],
+      "spacing": "10px",
+      "paddingAll": "10px"
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "image",
+          "url": "https://img.freepik.com/free-photo/close-up-male-hands-using-laptop-home_1150-790.jpg?w=1380&t=st=1670580572~exp=1670581172~hmac=58f72fcf782fd319d6998a73ef6887bffc761aba50bb92018da7fd7f624e7a7a",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "7:2"
+        }
+      ],
+      "paddingAll": "0px"
+    }
+  }

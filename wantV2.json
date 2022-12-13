@@ -1,0 +1,157 @@
+{
+    "type": "bubble",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "image",
+          "url": "https://cloud.ex10.tech/public/filestore/header_bot2-578c9ce1-77bf-11ed-9df6-9ede42d08758.png",
+          "aspectRatio": "3:1",
+          "aspectMode": "cover",
+          "size": "full"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "text",
+              "text": "สนใจผลิตภัณฑ์ใดดีคะ?",
+              "size": "18px",
+              "weight": "bold",
+              "align": "end"
+            }
+          ],
+          "offsetTop": "-85px",
+          "paddingEnd": "5%"
+        }
+      ],
+      "paddingAll": "0px",
+      "height": "100px"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "image",
+                  "url": "https://cloud.ex10.tech/public/filestore/ccicon-3b22a97b-77bd-11ed-a236-7a78eeab9f33.png",
+                  "size": "full",
+                  "aspectMode": "fit"
+                }
+              ],
+              "paddingAll": "0px",
+              "width": "60px",
+              "position": "absolute",
+              "offsetTop": "3px"
+            },
+            {
+              "type": "text",
+              "text": "Chat Center",
+              "align": "center",
+              "weight": "bold",
+              "color": "#F05A28"
+            }
+          ],
+          "paddingAll": "10px",
+          "backgroundColor": "#FFFFFF",
+          "borderWidth": "3px",
+          "cornerRadius": "10px",
+          "borderColor": "#F05A28"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "image",
+                  "url": "https://cloud.ex10.tech/public/filestore/crm-93fef76a-77be-11ed-9df6-9ede42d08758.png",
+                  "size": "full",
+                  "aspectMode": "fit"
+                }
+              ],
+              "paddingAll": "0px",
+              "width": "60px",
+              "position": "absolute",
+              "offsetTop": "3px"
+            },
+            {
+              "type": "text",
+              "text": "CRM",
+              "align": "center",
+              "weight": "bold",
+              "color": "#F05A28"
+            }
+          ],
+          "paddingAll": "10px",
+          "backgroundColor": "#FFFFFF",
+          "borderWidth": "3px",
+          "cornerRadius": "10px",
+          "borderColor": "#F05A28"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "image",
+                  "url": "https://cloud.ex10.tech/public/filestore/cdp-7fae322f-77be-11ed-9df6-9ede42d08758.png",
+                  "size": "full",
+                  "aspectMode": "fit"
+                }
+              ],
+              "paddingAll": "0px",
+              "width": "60px",
+              "position": "absolute",
+              "offsetTop": "1px"
+            },
+            {
+              "type": "text",
+              "text": "CDP",
+              "align": "center",
+              "weight": "bold",
+              "color": "#F05A28"
+            }
+          ],
+          "backgroundColor": "#FFFFFF",
+          "borderWidth": "3px",
+          "cornerRadius": "10px",
+          "borderColor": "#F05A28",
+          "paddingAll": "10px"
+        }
+      ],
+      "spacing": "10px",
+      "paddingAll": "10px"
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "image",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "9:2",
+          "url": "https://cloud.ex10.tech/public/filestore/footer-9db04e6f-77bb-11ed-85f8-9ed3bea0ec09.png"
+        }
+      ],
+      "paddingAll": "0px"
+    }
+  }
